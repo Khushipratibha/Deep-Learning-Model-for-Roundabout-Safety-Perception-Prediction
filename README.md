@@ -38,4 +38,48 @@ These metrics reflect the model’s ability to identify nuanced safety perceptio
 ## 🧠 About TabTransformer
 
 Originally introduced by **Huang et al. (2020)**, TabTransformer integrates **self-attention** with **MLP layers** to better handle categorical features in tabular data. Unlike traditional approaches, it learns contextual relationships between feature values — making it ideal for complex datasets.
+---
 
+## 🧩 Model Architecture Summary
+
+- 🎯 Embedding layers for high-cardinality categorical inputs
+- 🧩 Multi-head Self-Attention for deep feature encoding
+- 🧮 Fully connected MLP head for final classification
+
+All training is performed using **TensorFlow/Keras** with early stopping and dropout regularization techniques.
+---
+
+## 📈 Visual Results
+
+The notebook includes detailed training analysis:
+- 📉 Loss vs. Epochs
+- 🎯 Accuracy vs. Epochs
+- 🔍 Confusion Matrix
+- 📊 ROC Curve
+
+---
+## 🧪 Research Internship Context
+
+This project was developed during my **Research Internship** at the  
+**[SAFETRIP Lab, IIT Roorkee](https://civil.iitr.ac.in/SAFETRIP/index.html)**, under the guidance of transportation engineering experts.  
+The model contributes to **automated safety perception profiling** using survey data — enabling data-driven decision-making for safer urban infrastructure planning.
+
+> 🏛️ **Institution**: Indian Institute of Technology, Roorkee  
+> 🧑‍🔬 **Lab**: SAFETRIP (Safety Analytics and Forecasting for Equitable Transportation & Road Infrastructure Planning) Lab  
+> 🗓️ **Duration**: *May 2025 – July 2025*
+
+---
+
+## 🙋‍♀️ Contributions
+
+This project was entirely implemented by **Pratibha Yadav** as part of a research internship at **IIT Roorkee**.  
+For queries or collaborations, feel free to connect:
+
+- [LinkedIn](https://www.linkedin.com/in/pratibhayadav/)  
+- 📧 pratibhayadav@example.com *(update this with your real email if needed)*
+
+---
+
+## 🌟 Acknowledgements
+
+Special thanks to the faculty and researchers at SAFETRIP Lab, IIT Roorkee, for their guidance and the opportunity to work on real-world transport safety analytics.
