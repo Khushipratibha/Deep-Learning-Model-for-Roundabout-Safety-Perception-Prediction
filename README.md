@@ -75,8 +75,7 @@ The model contributes to **automated safety perception profiling** using survey 
 This project was entirely implemented by **Pratibha Yadav** as part of a research internship at **IIT Roorkee**.  
 For queries or collaborations, feel free to connect:
 
-- [LinkedIn](https://www.linkedin.com/in/pratibhayadav/)  
-- 📧 pratibhayadav@example.com *(update this with your real email if needed)*
+- [LinkedIn]((https://www.linkedin.com/in/khushipratibha/)/)  
 
 ---
 
