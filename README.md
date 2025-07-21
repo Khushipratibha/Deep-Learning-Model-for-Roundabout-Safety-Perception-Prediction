@@ -61,7 +61,7 @@ The notebook includes detailed training analysis:
 ## 🧪 Research Internship Context
 
 This project was developed during my **Research Internship** at the  
-**[SAFETRIP Lab, IIT Roorkee](https://civil.iitr.ac.in/SAFETRIP/index.html)**, under the guidance of transportation engineering experts.  
+**[SAFETRIP Lab, IIT Roorkee]**, under the guidance of transportation engineering experts.  
 The model contributes to **automated safety perception profiling** using survey data — enabling data-driven decision-making for safer urban infrastructure planning.
 
 > 🏛️ **Institution**: Indian Institute of Technology, Roorkee  
